@@ -22,3 +22,11 @@
 
 storybook-static
 custom-elements.json
+
+## editors
+/.idea
+/.vscode
+*.swp
+*.swo
+*~
+
